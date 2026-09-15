@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=250&section=header&text=Hello%20World!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0E8D7,100:FF7EB3&height=250&section=header&text=Hello%20World!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=7dcfff&center=true&vCenter=true&width=600&height=80&lines=System+Initializing...;Tokyo_Night_Protocol_Active;Full+Stack+Developer+%7C+Tech+Enthusiast;Transforming+Ideas+into+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=FF7EB3&center=true&vCenter=true&width=600&height=80&lines=System+Initializing...;Opalite_Iridescence_Engaged;Full+Stack+Developer+%7C+Tech+Enthusiast;Transforming+Ideas+into+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,14 +40,14 @@
 ### 📊 `<System_Telemetry>`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavish2705-coder&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000&border_color=7aa2f7&border_radius=15" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavish2705-coder&layout=compact&theme=tokyonight&hide_border=false&bg_color=00000000&border_color=bb9af7&border_radius=15" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavish2705-coder&show_icons=true&title_color=FF7EB3&text_color=E8D7F4&icon_color=A0E8D7&border_color=FF7EB3&bg_color=00000000&hide_border=false&border_radius=15" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavish2705-coder&layout=compact&title_color=FF7EB3&text_color=E8D7F4&icon_color=A0E8D7&border_color=A0E8D7&bg_color=00000000&hide_border=false&border_radius=15" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavish2705-coder&theme=tokyonight&hide_border=false&background=00000000&border=7dcfff&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavish2705-coder&fire=FF7EB3&ring=A0E8D7&currStreakNum=E8D7F4&sideNums=E8D7F4&currStreakLabel=A0E8D7&sideLabels=A0E8D7&dates=A0E8D7&stroke=FF7EB3&background=00000000&hide_border=false&border_radius=15" alt="GitHub Streak" />
 </div>
 
 ---
@@ -63,5 +63,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:A0E8D7&height=100&section=footer" width="100%" />
 </div>
