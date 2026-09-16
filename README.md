@@ -1,19 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A0E8D7,100:FF7EB3&height=250&section=header&text=Kavish's%20Digital%20Workspace&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:A4C639&height=250&section=header&text=Welcome%20to%20my%20space&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=A4C639&center=true&vCenter=true&width=700&height=80&lines=System+Initializing...;Feel+free+to+check+out+some+cool+projs;Building+Digital+Ecosystems;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 </div>
-
-<br/>
-
-### 🤖 `<Featured_Project:_HANBEE_Technologies>`
-
-**HANBEE** is a cutting-edge platform for Autonomous Service Robots designed for the healthcare, hospitality, and retail industries. Our intelligent robots handle delivery, service, and logistics, reducing staff workload by up to 40% and offering zero-disruption deployment.
-
-> I developed the highly interactive, performance-optimized website for HANBEE. It features an immersive, butter-smooth 3D WebGL showroom that allows users to seamlessly grab, rotate, and interact with 3D robot models directly in their browser without crashing or lagging on mobile devices.
-
-**Core Tech Stack Used on HANBEE:**  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,threejs,vite,css,html,nodejs,git&theme=dark" />
-</a>
 
 <br/>
 
@@ -37,17 +28,17 @@
   <table>
     <tr>
       <td align="center" width="50%" style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavish2705-coder&show_icons=true&title_color=FF7EB3&text_color=E8D7F4&icon_color=A0E8D7&border_color=FF7EB3&bg_color=00000000&hide_border=false&border_radius=15" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavish2705-coder&show_icons=true&title_color=A4C639&text_color=EAE0C8&icon_color=8F9779&border_color=556B2F&bg_color=00000000&hide_border=false&border_radius=15" alt="GitHub Stats" />
       </td>
       <td align="center" width="50%" style="border: none;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavish2705-coder&layout=compact&title_color=FF7EB3&text_color=E8D7F4&icon_color=A0E8D7&border_color=A0E8D7&bg_color=00000000&hide_border=false&border_radius=15" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavish2705-coder&layout=compact&title_color=A4C639&text_color=EAE0C8&icon_color=8F9779&border_color=556B2F&bg_color=00000000&hide_border=false&border_radius=15" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavish2705-coder&fire=FF7EB3&ring=A0E8D7&currStreakNum=E8D7F4&sideNums=E8D7F4&currStreakLabel=A0E8D7&sideLabels=A0E8D7&dates=A0E8D7&stroke=FF7EB3&background=00000000&hide_border=false&border_radius=15" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavish2705-coder&fire=A4C639&ring=556B2F&currStreakNum=EAE0C8&sideNums=EAE0C8&currStreakLabel=8F9779&sideLabels=8F9779&dates=8F9779&stroke=556B2F&background=00000000&hide_border=false&border_radius=15" alt="GitHub Streak" />
   
   <br/><br/>
   
@@ -69,5 +60,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7EB3,100:A0E8D7&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A4C639,100:556B2F&height=100&section=footer" width="100%" />
 </div>
