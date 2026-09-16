@@ -8,6 +8,24 @@
 
 ---
 
+### 🤖 `<Featured_Project:_HANBEE_Technologies>`
+
+**HANBEE** is a cutting-edge platform for **Autonomous Service Robots** designed for the healthcare, hospitality, and retail industries. Our intelligent robots handle delivery, service, and logistics, reducing staff workload by up to 40% and offering zero-disruption deployment. 
+
+I developed the highly interactive, performance-optimized website for HANBEE. It features an immersive, butter-smooth 3D WebGL showroom that allows users to seamlessly grab, rotate, and interact with 3D robot models directly in their browser without crashing or lagging on mobile devices.
+
+<div align="center">
+  <b>Core Tech Stack Used on HANBEE:</b><br/><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</div>
+
+---
+
 ### 🚀 `<Tech_Stack>`
 
 <div align="center">
