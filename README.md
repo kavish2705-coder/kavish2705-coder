@@ -1,9 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:A4C639&height=250&section=header&text=Welcome%20to%20my%20space&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:556B2F,100:A4C639&height=250&section=header&text=Welcome%20to%20my%20space&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Terminal_Access_Granted&descAlignY=55&descSize=20" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=A4C639&center=true&vCenter=true&width=700&height=80&lines=System+Initializing...;Feel+free+to+check+out+some+cool+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=A4C639&center=true&vCenter=true&width=700&height=80&lines=System+Initializing...;(+++%E2%80%A2%E2%80%BF%E2%80%A2+++)+Hello+Friend...;Feel+free+to+check+out+some+cool+projects;Bypassing+Mainframe...;Access+Granted." alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <code>
+    [ ■ _ ■ ] >_ SYSTEM_STATUS: OPTIMAL <br>
+    [ • ‿ • ] >_ AESTHETIC: DARK_OLIVE_ENGAGED <br>
+    [ ⚆ _ ⚆ ] >_ RUNNING_DIAGNOSTICS...
+  </code>
 </div>
 
 <br/>
@@ -39,8 +49,6 @@
   <br/>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavish2705-coder&fire=A4C639&ring=556B2F&currStreakNum=EAE0C8&sideNums=EAE0C8&currStreakLabel=8F9779&sideLabels=8F9779&dates=8F9779&stroke=556B2F&background=00000000&hide_border=false&border_radius=15" alt="GitHub Streak" />
-  
-  <br/><br/>
   
 </div>
 
